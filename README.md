@@ -4,7 +4,7 @@
 
 ## Description
 
-中央大學 資工系 2022 Fall 選修課 類神經網路 作業1
+中央大學資工系 2022 Fall 選修 類神經網路 Hw1
 
 ## Getting Started
 
